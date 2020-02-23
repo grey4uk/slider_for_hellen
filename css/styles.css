@@ -482,6 +482,7 @@ img {
   height: 16px; }
 
 .arrow-icon {
+  background-color: #7fffd4;
   display: block;
   width: 20px;
   height: 12px;
